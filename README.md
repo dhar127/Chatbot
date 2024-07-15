@@ -1,4 +1,4 @@
-Here's a README file description for your chatbot project using Gemini Pro and Streamlit, including the usage of a Google API key:
+
 
 ---
 
@@ -90,4 +90,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Feel free to customize this README file as needed for your specific project details.
+
